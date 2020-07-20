@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {
+    font-size: 62.5%; /* 10px at defailt browser settings */
+}
+h1 {
+    font-size: 24px; /* for browsers that don't support rem */
+    font-size: 2em; /* 24px */
+}
+p {
+    font-size: 12px; /* for browsers that don't support rem */
+    font-size: 1.2em; /* 12px */
+}
+/*
+Jonathan Snook: *Font Sizing with rem*:
+http:// snook.ca/archives/html_and_css/font-size-with-rem
+*/article {
+    background-color: rgba(162,162,162,1.00);
+    color: rgba(255,255,255,1.00);
+    float: left;
+    width: 50%;
+}
+#sidebar {
+    color: rgba(0,0,0,1.00);
+    background-color: rgba(190,190,190,1.00);
+    float: right;
+    font-size: 0.8em;
+    margin-right: 20px;
+    width: 45%;
+    padding-bottom: 35px;
+}
+p abbr {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.8em;
+}
+footer {
+    width: 100%;
+    clear: both;
+    padding-top: 20px;
+}

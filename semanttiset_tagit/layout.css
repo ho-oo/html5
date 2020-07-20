@@ -1,0 +1,53 @@
+@charset "utf-8";
+header {
+    background-color: #DF1428;
+    color: rgba(255,255,255,1.00);
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+nav {
+    background-color: #F38F2D;
+    color: rgba(255,255,255,1.00);
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+section {
+    background-color:rgba(253,192,3,1.00);
+    color: rgba(255,255,255,1.00);
+    float: left;
+    width: 50%;
+    height: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+footer {
+    background-color: rgba(141,46,140,1.00);
+    color: rgba(255,255,255,1.00);
+    clear: both;
+    width: 100%;
+}
+#kappale1 {
+    color: rgba(255,255,255,1.00);
+    background-color: rgb(122, 193, 65);
+}
+#kappale2 {
+    color: rgba(255,255,255,1.00);
+    background-color: rgb(122, 193, 65);
+}
+aside {
+    background-color: gba(0,137,218,1.00);
+    color: rgba(255,255,255,1.00);
+    float: left;
+    width: 50%;
+    padding-bottom: 1000px;
+    margin-bottom: -1000px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    height: 100%;
+    box-sizing: border-box;
+}
+#container {
+    overflow: hidden;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}

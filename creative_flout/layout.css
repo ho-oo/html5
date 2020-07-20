@@ -1,0 +1,66 @@
+@charset "utf-8";
+
+#suomi {
+    float:left;
+    width: 300px;
+    border: 2px solid #c8cdd2;
+    padding: 10px 0;
+   
+}
+#suomi dl {
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    float: left;
+    width: 260px;
+}
+#suomi dt {
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    font-size: 130%;
+    letter-spacing: 1px;
+    text-shadow: 0px 0px #627081;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    float: right;
+    width: 162px;
+}
+#suomi dd {
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    font-size: 85%;
+    line-height: 1.5em;
+    color: #666;
+}
+#suomi dd.img img {
+    float: left;
+    margin-top: 0;
+    margin-right: 8px;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-top: 4px;
+    padding-right: 4px;
+    padding-bottom: 4px;
+    padding-left: 4px;
+    border: 1px solid #D9E0E6;
+    background: white;
+}
+#suomi dd.text {
+    width: 162px;
+    float: right;
+}
